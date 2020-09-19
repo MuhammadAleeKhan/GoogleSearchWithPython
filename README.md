@@ -6,10 +6,10 @@ It performs brings back the top x results you would see if you search "SEARCH TE
 
 ## How to use?
 search(query, tld = 'co.in', lang = 'en', num = 10, start = 0, stop = None, pause = 2)
-# query: This is the text that you search
-# tld: This refers to the top level domain value like com.pk or comm
-# lang: Language you choose
-# num: Specifies the number of results we want
-# start: Specify from wehre to start the results. We keep it to 0 to begin from the very start
-# stop: Last result to retrieve (If None, keeps searching forever)
-# pause: Used to specify the number of seconds to pause between consecutive HTTP requests because if we hit too many requests, Google can block our IP
+### query: This is the text that you search
+### tld: This refers to the top level domain value like com.pk or comm
+### lang: Language you choose
+### num: Specifies the number of results we want
+### start: Specify from wehre to start the results. We keep it to 0 to begin from the very start
+### stop: Last result to retrieve (If None, keeps searching forever)
+### pause: Used to specify the number of seconds to pause between consecutive HTTP requests because if we hit too many requests, Google can block our IP
