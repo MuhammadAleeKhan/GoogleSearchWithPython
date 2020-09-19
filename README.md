@@ -1,4 +1,4 @@
-# Zoom Automation
+# Google Search With Python
 A python script you can use this to develop a backend service for a desktop application or implement a website search or app search with the python code running on your server
 
 ## What does it do?
